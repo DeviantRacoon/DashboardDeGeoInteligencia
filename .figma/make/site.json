@@ -1,0 +1,10 @@
+{
+  "description": "Dashboard de geointeligencia para monitorear registros, asignaciones, resultados y kilometraje por cliente, equipo y periodo, con filtros avanzados y reportes exportables.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
